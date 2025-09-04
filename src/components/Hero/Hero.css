@@ -216,6 +216,7 @@
 
 .image-container:hover .image-overlay {
    width: 90%;
+   border-radius: 50%;
   opacity: 1;
 }
 
